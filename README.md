@@ -1,4 +1,4 @@
-# 🧮 Calculadora de Porcentagem
+# 🧮 CALCULADORA DE PORCENTAGEM
 
 Calculadora simples feita com HTML, CSS e JavaScript para calcular porcentagens de forma rápida e prática.
 
@@ -20,9 +20,45 @@ Calculadora simples feita com HTML, CSS e JavaScript para calcular porcentagens 
 - CSS
 - JavaScript
 
+## 😄 O que eu aprendi?
+
+### GitHub e GitHub Pages
+
+- Criar repositórios
+
+- Adicionar arquivos
+
+- Publicar um site gratuito online
+
+### HTML, CSS e JavaScript
+
+-  Estruturar páginas com HTML
+
+- Estilizar com CSS
+
+- Criar lógica com JavaScript (eventos, cálculos, exibição de resultados)
+
+### Organização de Projeto
+
+- Separar arquivos (index.html, style.css, script.js)
+
+- Usar caminhos corretos de arquivos (e.g. imagens, scripts)
+
+### Markdown
+
+- Criar um README.md
+
+- Adicionar links, imagens e explicações do projeto
+
+### Autonomia e resolução de problemas
+
+- Montar um projeto do zero
+
+- Testar, errar, corrigir, melhorar
+
 ## 📂 Como usar
 
 Você pode acessar a calculadora diretamente [clicando aqui](https://adrianobellini33.github.io/calculadora-de-porcentagem/), sem precisar instalar nada.
 
 ---
-Feito com 💙 por [Adriano Bellini](https://github.com/adrianobellini33)
+Feito por [Adriano Bellini](https://github.com/adrianobellini33)
