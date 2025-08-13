@@ -12,9 +12,7 @@ Calculadora simples feita com HTML, CSS e JavaScript para calcular porcentagens 
 
 ## 💻 Prévia
 
-<!-- Você pode colocar uma imagem da calculadora aqui se quiser -->
-<!-- Exemplo com imagem externa: -->
-<!-- ![Calculadora de Porcentagem](https://via.placeholder.com/600x300.png?text=Preview+da+Calculadora) -->
+<img src="https://github.com/adrianobellini33/calculadora-de-porcentagem/blob/main/previa-calculadora-de-porcentagem.png" alt="Descrição da imagem">
 
 ## 🚀 Tecnologias usadas
 
